@@ -1,0 +1,16 @@
+body {
+  background-color: #bcd9f5;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.recipe-card {
+  box-shadow: 0px 4px 6px rgba(181, 9, 9, 0.1);
+}
+
+.recipe-title {
+  font-weight: bold;
+}
